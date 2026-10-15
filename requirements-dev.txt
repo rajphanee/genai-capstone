@@ -1,0 +1,3 @@
+# Only needed to regenerate sample_docs/ with scripts/make_sample_docs.py
+-r requirements.txt
+reportlab>=4.0

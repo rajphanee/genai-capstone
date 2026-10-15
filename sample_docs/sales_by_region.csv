@@ -1,0 +1,7 @@
+Region,Quarter,Revenue_USD_M,New_Customers,Top_Product
+West,Q1,4.2,120,CloudSuite
+West,Q2,4.8,135,CloudSuite
+East,Q1,3.9,98,DataVault
+East,Q2,4.1,110,DataVault
+Central,Q1,2.7,64,FieldApp
+Central,Q2,3.3,81,CloudSuite
